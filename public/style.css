@@ -89,9 +89,9 @@ button {
 
 button:hover {
   background-color: #edb437;
-  box-shadow: 0px 15px 20px #9CAFAA;
+  box-shadow: 0px 15px 20px #EFBC9B;
   color: #fff;
-  transform: translateY(-7px);
+  transform: translateY(-2px);
 }
 
 button:active {

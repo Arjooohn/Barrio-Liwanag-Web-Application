@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFBC9B;
+  }
+  
+.paralax {
+  /* The image used */
+  background-image: url('public\barrio-liwanag-background-cover.png');
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
